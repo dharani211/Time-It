@@ -8,8 +8,6 @@ Yellow Reminder - 5 minutes left in usage time
 Orange Reminder - 2 minutes left in your time  
 Red Reminder - Time is over. Back to work now!
 
-![CodeBox](https://user-images.githubusercontent.com/51206050/115509202-c8f40d00-a29b-11eb-9ecd-5a754aa58da7.png)
-
 # Set Up
 
 1. Clone this repo to your local machine
