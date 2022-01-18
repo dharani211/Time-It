@@ -8,6 +8,11 @@ Yellow Reminder - 5 minutes left in usage time
 Orange Reminder - 2 minutes left in your time  
 Red Reminder - Time is over. Back to work now!
 
+# Note
+
+Once you have a copy of the folder on your PC, you can make changes in the manifest.json and script.js file to customise the website list and reminder timing as per your need.
+
+
 # Set Up
 
 1. Clone this repo to your local machine
