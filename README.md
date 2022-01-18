@@ -2,7 +2,7 @@
 
 Limit your social media usage with Time It
 
-This extension provides 3 different reminders so that you can focus on your work without wasting time on social media.
+This chrome extension provides 3 different reminders so that you can focus on your work without wasting time on social media.
 
 Yellow Reminder - 5 minutes left in usage time  
 Orange Reminder - 2 minutes left in your time  
